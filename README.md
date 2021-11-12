@@ -7,4 +7,4 @@ Afraid people read your cringe message for your crush?. What a coincidence! use 
 **Packages:** art
 
 ## Flow of the program
-(will be updated, maybe you guys can check out the code for awhile)
+(will be updated, maybe you guys can check out the code first)
