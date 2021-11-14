@@ -7,4 +7,5 @@ Afraid people read your cringe message for your crush?. What a coincidence! use 
 **Packages:** art
 
 ## Flow of the program
-(will be updated, maybe you guys can check out the code first)
+
+![](https://github.com/aimanraz/caesar_cipher/blob/main/img/Caesar%20cipher.drawio.png)
